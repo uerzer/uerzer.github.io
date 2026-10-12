@@ -1,0 +1,206 @@
+{
+  "updated": "2025-07-14",
+  "source": "LMArena open dataset (CC-BY-4.0) https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset",
+  "models": [
+    {
+      "rank": 1,
+      "model": "Gemini 2.5 Pro",
+      "org": "Google",
+      "elo": 1465,
+      "extra": {
+        "votes": 38412,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 2,
+      "model": "GPT-4.5 Preview",
+      "org": "OpenAI",
+      "elo": 1449,
+      "extra": {
+        "votes": 21430,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 3,
+      "model": "Claude Opus 4",
+      "org": "Anthropic",
+      "elo": 1441,
+      "extra": {
+        "votes": 19877,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 4,
+      "model": "Claude Sonnet 4",
+      "org": "Anthropic",
+      "elo": 1437,
+      "extra": {
+        "votes": 30154,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 5,
+      "model": "Grok 3",
+      "org": "xAI",
+      "elo": 1421,
+      "extra": {
+        "votes": 15620,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 6,
+      "model": "GPT-4o",
+      "org": "OpenAI",
+      "elo": 1415,
+      "extra": {
+        "votes": 58210,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 7,
+      "model": "o3",
+      "org": "OpenAI",
+      "elo": 1412,
+      "extra": {
+        "votes": 12440,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 8,
+      "model": "DeepSeek R1",
+      "org": "DeepSeek",
+      "elo": 1403,
+      "extra": {
+        "votes": 27330,
+        "license": "MIT"
+      }
+    },
+    {
+      "rank": 9,
+      "model": "Qwen3 235B A22B",
+      "org": "Alibaba",
+      "elo": 1399,
+      "extra": {
+        "votes": 9820,
+        "license": "Apache-2.0"
+      }
+    },
+    {
+      "rank": 10,
+      "model": "Llama 4 Maverick",
+      "org": "Meta",
+      "elo": 1389,
+      "extra": {
+        "votes": 11045,
+        "license": "Llama-4 Community"
+      }
+    },
+    {
+      "rank": 11,
+      "model": "Gemini 2.5 Flash",
+      "org": "Google",
+      "elo": 1387,
+      "extra": {
+        "votes": 24610,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 12,
+      "model": "GPT-4.1",
+      "org": "OpenAI",
+      "elo": 1385,
+      "extra": {
+        "votes": 15320,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 13,
+      "model": "Claude 3.7 Sonnet",
+      "org": "Anthropic",
+      "elo": 1382,
+      "extra": {
+        "votes": 33870,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 14,
+      "model": "Mistral Medium 3",
+      "org": "Mistral",
+      "elo": 1364,
+      "extra": {
+        "votes": 6120,
+        "license": "Apache-2.0"
+      }
+    },
+    {
+      "rank": 15,
+      "model": "o4-mini",
+      "org": "OpenAI",
+      "elo": 1361,
+      "extra": {
+        "votes": 14080,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 16,
+      "model": "DeepSeek V3",
+      "org": "DeepSeek",
+      "elo": 1352,
+      "extra": {
+        "votes": 22410,
+        "license": "MIT"
+      }
+    },
+    {
+      "rank": 17,
+      "model": "Gemini 2.0 Flash",
+      "org": "Google",
+      "elo": 1348,
+      "extra": {
+        "votes": 31050,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 18,
+      "model": "Kimi K2",
+      "org": "Moonshot AI",
+      "elo": 1344,
+      "extra": {
+        "votes": 7320,
+        "license": "Modified MIT"
+      }
+    },
+    {
+      "rank": 19,
+      "model": "GPT-4.1 mini",
+      "org": "OpenAI",
+      "elo": 1341,
+      "extra": {
+        "votes": 12960,
+        "license": "Proprietary"
+      }
+    },
+    {
+      "rank": 20,
+      "model": "Llama 3.3 70B",
+      "org": "Meta",
+      "elo": 1330,
+      "extra": {
+        "votes": 18740,
+        "license": "Llama-3.3 Community"
+      }
+    }
+  ]
+}
